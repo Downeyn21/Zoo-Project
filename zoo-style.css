@@ -47,3 +47,14 @@ header {
     text-align: center;
 }
 
+.links {
+    border: solid;
+    background-color: peru;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#hyper {
+    margin-bottom: 15px;
+    
+}
