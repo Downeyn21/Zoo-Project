@@ -1,0 +1,49 @@
+img {
+    max-height: 200px;
+    max-width: 300px;
+    
+}
+li{
+    padding-top: 20px;
+    padding: auto;
+    text-align: left;
+}
+
+
+.animal{
+    display: flex;
+    margin-top: 24px;
+    justify-content: space-between;
+}
+
+
+section {
+    font-size: 85%;
+    color: rgba(0, 0, 0, 0.788);
+    text-align: center;
+    border: 1px dotted black;
+    background-color: rgba(120, 229, 248, 0.89);
+    border-radius: 1px;
+}
+
+html {
+    background-color: rgba(71, 216, 27, 0.281);
+}
+
+.list {
+    height: auto;
+    width: 400px;
+    border: 1px solid black;
+    background-color: tan;
+    border-radius: 10px;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
